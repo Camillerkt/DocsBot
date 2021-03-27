@@ -1,0 +1,7 @@
+Vous allez éditer le document {{titre}}
+
+boucle infinie jusqu'à ce que l'utilisateur ne continue plus :
+    Que souhaitez-vous faire ?
+        ✅ - Ajouter du texte (point, virgule, point d'exclamation, point virgule, point d'interrogation, passage à la ligne)
+        ✅ - Ajouter une image (via une url)
+        ✅ - Supprimer du texte
